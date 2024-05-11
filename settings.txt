@@ -1,0 +1,14 @@
+Parameters settings for MDC4SF:
+Data set	$\gamma$	$\alpha$	$\lambda$
+Edm	1e-1	1e-1	1e-4
+Enb	1e-2	1e-1	1e-4
+Oes97	1e-1	1e-1	1e-3
+Jura	1e-2	1e-2	1e-1
+Oes10	1e-3	1e-1	1e-1
+Song	1e-1	1e-2	1e-1
+BeLaE	1e-4	1e-3	1e-2
+Voice	1e-1	1e-2	1e-2
+Scm20d	1e-1	1e-3	1e-2
+WaterQuality	1e0	1e-1	1e-1
+WQanimals	1e0	1e-2	1e-1
+WQplnats	1e0	1e-2	1e-1
